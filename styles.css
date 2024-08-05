@@ -28,10 +28,10 @@ h1 {
 button {
     background-color: #e74c3c;
     color: #ecf0f1;
-    border: none;
     padding: 10px 20px;
     margin: 5px;
     cursor: pointer;
+    border: white;
     border-radius: 5px;
 }
 
